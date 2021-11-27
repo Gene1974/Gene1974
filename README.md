@@ -1,12 +1,8 @@
-I’m @Gene1974, a student majar in EE. 
+A master student, in NGN lab, Department of EE, Tsinghua University.
 
-I’m now working on PDF Parsing(maybe). I can write a little C++, Python and Matlab.
+Working on NLP and Knowledge Graph, also a C++ programmer.
 
-I wants to learn Java, JavaScript, PHP, Go, Django, Vue, Unity. I'd appreciate it if you could help me or teach me.
-
-I’m interested in basketball and basketball referee.
-
-How to reach me: huangyingzhuo01@gmail.com
+How to reach me: huangyingzhuo17@gmail.com
 
 <!---
 Gene1974/Gene1974 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
