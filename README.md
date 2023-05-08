@@ -1,4 +1,4 @@
-NLP learner and C++ programmer.
+推荐算法 / NLP learner / C++ programmer.
 
 <!---
 Gene1974/Gene1974 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
